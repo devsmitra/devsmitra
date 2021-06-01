@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rahul Sharma (DevsMitra)
-- 👀 I’m interested in Javascript and Frameworks.
-- 🌱 I’m currently learning Golang.
+I'm a software engineer who specialized in JavaScript, React.js, Node.js, Angular, Angular.js, Typescript, Express.js, and MongoDB.
+- 🌱 I’m currently learning Flutter.
