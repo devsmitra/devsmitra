@@ -15,7 +15,7 @@
 <h3>🤙🏻 How to Reach me: </h3>
 
 - [Catch me On: **LinkedIn**](https://www.linkedin.com/in/rahul-sharma-18b8b374)
-- [Read my blogs on: **DevsMitra Medium**](https://devsmitra.github.io/devsmitra)
+- [Read my blogs on: **DevsMitra Medium**](https://devsmitra.medium.com/)
 - [**StackOverflow**](https://stackoverflow.com/users/8879527/rahul-sharma?tab=profile)
 - [**Github**](https://github.com/devsmitra)
   <br>
@@ -30,8 +30,12 @@
 
 - [**Astro** (Ship Less JavaScript)](https://github.com/snowpackjs/astro)
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsmitra&show_icons=true&locale=en" alt="devsmitra" /></p>
-  <br><br>
+<div style="display: flex;">
+<img height="180em" style="padding-right: 16px" src="https://github-readme-stats.vercel.app/api?username=devsmitra&show_icons=true&locale=en" alt="devsmitra" />
+<img height="180em" style="padding-right: 16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsmitra&layout=compact&langs_count=7"/>
+</div>
+<br>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" align="center" >&nbsp;**_My Programming skills & working tools..._**
 
 <p align="left">
