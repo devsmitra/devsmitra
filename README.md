@@ -5,7 +5,7 @@
 
 <h3 align="center">I'm technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.</h3>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me..._**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" align="center">&nbsp;**_About me..._**
 
 ✔ I’m currently learning about **Flutter** <br>
 ✔ I’m looking to collaborate with any **Open - Source Javascript Project**<br>
@@ -29,9 +29,10 @@
 <h3>🔭 Open Source Contribution: </h3>
 
 - [**Astro** (Ship Less JavaScript)](https://github.com/snowpackjs/astro)
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsmitra&show_icons=true&locale=en" alt="devsmitra" /></p>
   <br><br>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_My Programming skills & working tools..._**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" align="center" >&nbsp;**_My Programming skills & working tools..._**
 
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
