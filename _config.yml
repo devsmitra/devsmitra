@@ -1,0 +1,11 @@
+# Site Settings
+locale: "en-US"
+title: "Rahul Sharma (DevsMitra)"
+title_separator: "-"
+name: &name "Rahul Sharma"
+description: &description "I'm technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products."
+url: https://devsmitra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
+repository: "devsmitra/devsmitra.github.io"
+
+theme: jekyll-theme-cayman
