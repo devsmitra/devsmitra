@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rahul Sharma(DevsMitra) </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/rahul-sharma-18b8b374" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="50"  /></a><a href="https://stackoverflow.com/users/8879527/rahul-sharma?tab=profile" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="50" /></a><a href="https://devsmitra.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="50" /></a>
-<a href="https://dev.to/devsmitra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="50" /></a>
-<a href="https://stackblitz.com/@devsmitra" target="blank"><img align="center" src="https://developer.stackblitz.com/img/logo.svg" alt="Rahul Sharma(DevsMitra)" height="30" /></a> <a href="https://codesandbox.io/u/DevsMitra" height="50" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHNYp4KGM7yQ8SLGOuUPuZ4b9nVZiEjNy1gbwNj0Q1P8eMmJlDioD6K2ihRhPEO1zgls&usqp=CAU" alt="Rahul Sharma(DevsMitra)" height="40" /></a>
+<a href="https://dev.to/devsmitra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="30" /></a>
+<a href="https://stackblitz.com/@devsmitra" target="blank"><img align="center" src="https://developer.stackblitz.com/img/logo.svg" alt="Rahul Sharma(DevsMitra)" height="20" /></a>
 </p><br>
 
 <h3 align="center">I'm technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.</h3>
