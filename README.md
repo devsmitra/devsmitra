@@ -18,7 +18,7 @@
 
 - [Catch me On: **LinkedIn**](https://www.linkedin.com/in/rahul-sharma-18b8b374)
 - [Read my blogs on: **DevsMitra Medium**](https://devsmitra.medium.com/)
-- [Read my blogs on: **DevsMitra Dev.io**](https://dev.to/devsmitra)
+- [Read my blogs on: **DevsMitra Dev.to**](https://dev.to/devsmitra)
 - [**StackOverflow**](https://stackoverflow.com/users/8879527/rahul-sharma?tab=profile)
 - [**Github**](https://github.com/devsmitra)
   <br>
