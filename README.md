@@ -47,7 +47,7 @@
 <!-- <a href="http://www.github.com/devsmitra"><img height="180em"
 src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra&stroke=1c1917&background=fff&ring=3382ed&fire=3382ed&currStreakNum=1c1917&currStreakLabel=3382ed&sideNums=1c1917&sideLabels=1c1917&dates=1c1917&hide_border=true" /></a> -->
 
-</div><br/>
+</div>
 
 ### 🧑🏻‍💻 My Programming skills & working tools...
 
