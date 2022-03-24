@@ -26,13 +26,6 @@
 - [**DevsMitra Stackblitz**](https://stackblitz.com/@devsmitra)
 - [**DevsMitra CodeSandbox**](https://codesandbox.io/u/DevsMitra)
   
-### 📖 Read my blogs:
-
-- [**React best practices and patterns to reduce code - Part 1**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-2bff)
-- [**React best practices and patterns to reduce code - Part 2**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
-- [**React best practices and patterns to reduce code - Part 3**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1)
-
-
 ### 🔭 Open Source Contribution:
 
 - [**Astro** (Ship Less JavaScript)](https://github.com/snowpackjs/astro)
@@ -81,4 +74,17 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra&stroke=1c1
   <code style="margin-top: 16px"> <img height="50" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code> 
   <code style="margin-top: 16px"> <img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code> 
 </p>
+
+### 📖 Read my blogs:
+
+- [**React best practices and patterns to reduce code - Part 1**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-2bff)
+- [**React best practices and patterns to reduce code - Part 2**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
+- [**React best practices and patterns to reduce code - Part 3**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1)
+- [**How to solve REST API routing problem with decorators?**](https://dev.to/devsmitra/how-to-solve-rest-api-routing-problem-with-decorators-5b3n)
+- [**How to Get Started with Javascript Audiobook**](https://dev.to/devsmitra/the-complete-guide-to-covert-image-to-text-and-text-to-speech-with-javascript-15gp)
+- [**The Complete Guide to Micro Frontend with React.js for 2022**](https://dev.to/devsmitra/the-complete-guide-to-micro-frontend-with-reactjs-for-2022-36b2)
+- [**How to create a custom ESlint plugin**](https://dev.to/devsmitra/how-to-create-a-custom-eslint-plugin-3bom)
+- [**3 steps to create custom state management library with React Hooks and Context API**](https://dev.to/devsmitra/3-steps-to-create-custom-state-management-library-with-react-hooks-and-context-api-1bfh)
+- [**Javascript short reusable functions everyone will always need**](https://dev.to/devsmitra/javascript-short-reusable-functions-everyone-will-always-need-22oc)
+
 
