@@ -77,6 +77,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra&stroke=1c1
 
 ### 📖 Read my blogs:
 
+- [**13 Typescript Utility: A Cheat Sheet for Developer**](https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3)
 - [**28 Javascript Array Methods: A Cheat Sheet for Developer**](https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769)
 - [**React best practices and patterns to reduce code - Part 1**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-2bff)
 - [**React best practices and patterns to reduce code - Part 2**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
