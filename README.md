@@ -19,13 +19,13 @@
 - [Read my blogs on: **DevsMitra Medium**](https://devsmitra.medium.com/)
 - [Read my blogs on: **DevsMitra Dev.to**](https://dev.to/devsmitra)
 - [**StackOverflow**](https://stackoverflow.com/users/8879527/rahul-sharma?tab=profile)
-- [**Github**](https://github.com/devsmitra) 
+- [**Github**](https://github.com/devsmitra)
 
 ### ✍️ Code Examples:
 
 - [**DevsMitra Stackblitz**](https://stackblitz.com/@devsmitra)
 - [**DevsMitra CodeSandbox**](https://codesandbox.io/u/DevsMitra)
-  
+
 ### 🔭 Open Source Contribution:
 
 - [**Astro** (Ship Less JavaScript)](https://github.com/snowpackjs/astro)
@@ -77,6 +77,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra&stroke=1c1
 
 ### 📖 Read my blogs:
 
+- [**28 Javascript Array Methods: A Cheat Sheet for Developer**](https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769)
 - [**React best practices and patterns to reduce code - Part 1**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-2bff)
 - [**React best practices and patterns to reduce code - Part 2**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
 - [**React best practices and patterns to reduce code - Part 3**](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1)
@@ -86,5 +87,3 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra&stroke=1c1
 - [**How to create a custom ESlint plugin**](https://dev.to/devsmitra/how-to-create-a-custom-eslint-plugin-3bom)
 - [**3 steps to create custom state management library with React Hooks and Context API**](https://dev.to/devsmitra/3-steps-to-create-custom-state-management-library-with-react-hooks-and-context-api-1bfh)
 - [**Javascript short reusable functions everyone will always need**](https://dev.to/devsmitra/javascript-short-reusable-functions-everyone-will-always-need-22oc)
-
-
