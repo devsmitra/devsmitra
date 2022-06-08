@@ -9,9 +9,9 @@
 ### 👱 About me...
 
 ✔ I’m currently learning about **Flutter** <br>
-✔ I’m looking to collaborate with any **Open - Source Javascript Project**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : _I Always try to learn something new and then sleep till it store in the brain_ 😎<br>
+✔ I’m looking to collaborate with any **Open-Source Javascript Project**<br>
+✔ Ask me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact: _I Always try to learn something new and then sleep till it stores in the brain_ 😎<br>
 
 ### 🤙🏻 How to Reach me:
 
@@ -77,6 +77,11 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra&stroke=1c1
 
 ### 📖 Read my blogs:
 
+- [**Javascript String Methods: A Cheat Sheet for Developer**](https://dev.to/devsmitra/javascript-string-methods-a-cheat-sheet-for-developer-4kbk)
+- [**Solidjs and React.js - Difference and Comparison**](https://dev.to/devsmitra/solidjs-and-reactjs-difference-and-comparison-1p3e)
+- [**Getting started with SolidJs – A Beginner's Guide**](https://dev.to/devsmitra/getting-started-with-solidjs-a-beginners-guide-5af4)
+- [**What is PyScript? And Why Should You Care?**](https://dev.to/devsmitra/what-is-pyscript-and-why-should-you-care-10f)
+- [**What's new in the Node.js v18.x release?**](https://dev.to/devsmitra/whats-new-in-the-nodejs-v18x-release-43f2)
 - [**How to cancel Javascript API request with AbortController**](https://dev.to/devsmitra/how-to-cancel-javascript-api-request-with-abortcontroller-36cm)
 - [**13 Typescript Utility: A Cheat Sheet for Developer**](https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3)
 - [**28 Javascript Array Methods: A Cheat Sheet for Developer**](https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769)
