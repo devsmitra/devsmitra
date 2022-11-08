@@ -31,11 +31,11 @@
 - [**Astro** (Ship Less JavaScript)](https://github.com/snowpackjs/astro)
 
 <div style="display: flex;">
-  <a href="http://www.github.com/devsmitra">
-<img height="180em" style="padding-right: 16px" src="https://github-readme-stats.vercel.app/api?username=devsmitra&show_icons=true&locale=en" alt="devsmitra" /></a>
 <a href="http://www.github.com/devsmitra">
-<img height="180em" style="padding-right: 16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsmitra&layout=compact&langs_count=7"/>
-  </a>
+<img height="180em" style="padding-right: 16px" src="https://github-readme-stats.vercel.app/api?username=devsmitra&show_icons=true&locale=en" alt="devsmitra" /></a>
+<a href="http://www.github.com/devsmitra"><img height="180em" style="padding-right: 16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsmitra&layout=compact&langs_count=7"/> </a>
+<a href="http://www.github.com/devsmitra">
+<img height="180em" style="padding-right: 16px" src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra" alt="devsmitra" /></a>
 
 <!-- <a href="http://www.github.com/devsmitra"><img height="180em"
 src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra&stroke=1c1917&background=fff&ring=3382ed&fire=3382ed&currStreakNum=1c1917&currStreakLabel=3382ed&sideNums=1c1917&sideLabels=1c1917&dates=1c1917&hide_border=true" /></a> -->
