@@ -19,6 +19,7 @@
 - [Read my blogs on: **DevsMitra Medium**](https://devsmitra.medium.com/)
 - [Read my blogs on: **DevsMitra Dev.to**](https://dev.to/devsmitra)
 - [Read my blogs on: **DevsMitra Blogspot**](https://devsmitra.blogspot.com/)
+- [Read my blogs on: **DevsMitra Vocal Media**](https://vocal.media/authors/rahul-sharma-weh31f06gm)
 - [Read my blogs on: **DevsMitra Hashnode**](https://devsmitra.hashnode.dev/)
 - [Read my blogs on: **DevsMitra HackerNoon**](https://hackernoon.com/u/devsmitra)
 - [**StackOverflow**](https://stackoverflow.com/users/8879527/rahul-sharma?tab=profile)
@@ -97,3 +98,4 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=devsmitra&stroke=1c1
 - [**How to create a custom ESlint plugin**](https://dev.to/devsmitra/how-to-create-a-custom-eslint-plugin-3bom)
 - [**3 steps to create custom state management library with React Hooks and Context API**](https://dev.to/devsmitra/3-steps-to-create-custom-state-management-library-with-react-hooks-and-context-api-1bfh)
 - [**Javascript short reusable functions everyone will always need**](https://dev.to/devsmitra/javascript-short-reusable-functions-everyone-will-always-need-22oc)
+- [**5 Javascript Interview Questions and Answers for Beginners**](https://vocal.media/education/5-javascript-interview-questions-and-answers-for-beginners)
