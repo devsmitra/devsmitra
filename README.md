@@ -1,5 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rahul Sharma(DevsMitra)</h1>
-<p align="center">
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=5000&color=33FF33&center=true&vCenter=true&width=600&lines=Hi,+I'm+Rahul+Sharma;Software+Engineer..." alt="Typing SVG"/>
+    </h1>
+</div>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rahul Sharma(DevsMitra)</h1>
+<p align="center"> -->
 <a href="https://www.linkedin.com/in/rahul-sharma-18b8b374" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="50"  /></a><a href="https://stackoverflow.com/users/8879527/rahul-sharma?tab=profile" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="50" /></a><a href="https://devsmitra.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="50" /></a>
 <a href="https://dev.to/devsmitra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="Rahul Sharma(DevsMitra)" height="30" /></a>
 <a href="https://stackblitz.com/@devsmitra" target="blank"><img align="center" src="https://developer.stackblitz.com/img/logo.svg" alt="Rahul Sharma(DevsMitra)" height="20" /></a>
