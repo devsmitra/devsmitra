@@ -65,6 +65,18 @@
       </p>
     </td>
   </tr>
+  <tr>
+   <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/devsmitra">
+         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devsmitra&layout=compact&langs_count=8&theme=algolia"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+
+    
 </table>
 <br />
 
@@ -73,6 +85,13 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsmitra&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
+
+<h2 align="center">🤝 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ REPO 🤝 </h2>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=micro)](https://github.com/devsmitra/micro)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=javascript-quick-functions)](https://github.com/devsmitra/javascript-quick-functions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=func-prefix-matching)](https://github.com/devsmitra/func-prefix-matching)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=Express-App-Using-TS-Decorator)](https://github.com/devsmitra/Express-App-Using-TS-Decorator)
+
 <br/>
 
 <!--Contact Section-->
@@ -86,6 +105,8 @@
 <a href="https://stackblitz.com/@devsmitra" target="blank">Stackblitz</a>
 </div>
 <br/>
+
+
 
 <h2 align="center">📖 Read My Blogs 📖</h2>
 
